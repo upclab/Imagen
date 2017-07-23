@@ -1,11 +1,8 @@
-<h1 align="center">
-	<img width="600" src="https://cdn.rawgit.com/upclab/Imagen/ee67384a/awesome-upc.svg" alt="Awesome">
+<div align="center">
+	<img width="600" src="https://cdn.rawgit.com/upclab/Imagen/a636ab76/awesome-upc.svg" alt="UPC Lab Awesome">
 	<br>
 	<br>
-</h1>
-
-<br>
-<br>
+</div>
 
 <p align="center">
 	<b>Colección de proyectos sobre manipulación y procesamiento de imágenes</b>
