@@ -1,7 +1,17 @@
-## Por Funcionalidad
-- [Ecualización](#ecualizacion)
+<h1 align="center">
+	<img width="400" src="https://cdn.rawgit.com/upclab/Imagen/ee67384a/awesome-upc.svg" alt="Awesome">
+	<br>
+	<br>
+</h1>
 
-## Ecualización
+<br>
+<br>
+
+## Por Funcionalidad
+
+- [Ecualizacion](#ecualizacion)
+
+## Ecualizacion
 
 - [Imagro](https://github.com/upclab/Imagro) - Ecualiza escalas grises para optimizar imágenes.
 
