@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img width="400" src="https://cdn.rawgit.com/upclab/Imagen/ee67384a/awesome-upc.svg" alt="Awesome">
+	<img width="600" src="https://cdn.rawgit.com/upclab/Imagen/ee67384a/awesome-upc.svg" alt="Awesome">
 	<br>
 	<br>
 </h1>
@@ -7,13 +7,22 @@
 <br>
 <br>
 
-## Por Funcionalidad
+<p align="center">
+	<b>Colección de proyectos sobre manipulación y procesamiento de imágenes</b>
+</p>
 
-- [Ecualizacion](#ecualizacion)
+<br>
 
-## Ecualizacion
+---
+
+## Ecualización
 
 - [Imagro](https://github.com/upclab/Imagro) - Ecualiza escalas grises para optimizar imágenes.
+
+## Descargar imagenes de prueba
+
+Puedes descargar imágenes para probar efectos, optimizaciones y demás!
+[Ver imágenes...](https://github.com/upclab/Imagen/tree/master/Imagenes)
 
 
 ## SOBRE UPC LAB Y UPC GAMES
